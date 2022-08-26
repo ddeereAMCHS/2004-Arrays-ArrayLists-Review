@@ -1,4 +1,4 @@
-# Arrays & ArraysLists Review
+# Arrays & ArrayLists Review
 
 ## Due: Thur 9/1 at 11:59 PM
 
