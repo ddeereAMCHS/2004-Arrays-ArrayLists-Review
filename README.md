@@ -5,7 +5,7 @@
 - Create a program called `ArraysReview.java`
 - Prompt the user for a filename
 - Read in all the values and store them in both an array and an ArrayList
-- Do the following actions for both the array and the ArrayList:
+- Do the following actions for both the array and the ArrayList: (do not just do the actions on one and then copy the values to the other)
   - Remove the element with value 19 if it exists
     - If it exists, print "Element with value 19 removed" and shift any subsequent elements to the left
     - If it does not exist, print "No element with value 19 found"
