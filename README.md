@@ -14,8 +14,7 @@
     - If it does not exist, print "No element with value 7 found"
   - Set the element at index 3 to be 9
   - Insert an element with value 12 at index 5 and shift any subsequent elements to the right
-  - Print the array
-  - Print the ArrayList
+  - Print all the values
 
 ***Example Input:***\
 input.txt\
@@ -36,5 +35,9 @@ input.txt\
 45\
 99\
 ***Example Output:***\
-Element with value 19 removed
-No element with value 7 found
+Element with value 19 removed\
+No element with value 7 found\
+[3, 14, 18, 9, 54, 12, 16, 34, 26, 17, 4, 22, 31, 45, 99]\
+Element with value 19 removed\
+No element with value 7 found\
+[3, 14, 18, 9, 54, 12, 16, 34, 26, 17, 4, 22, 31, 45, 99]
