@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "input.txt",
+      "setup": "javac ArraysReview.java",
+      "run": "java ArraysReview",
+      "input": "input.txt",
+      "output": "Element with value 19 removed\r\nNo element with value 7 found\r\n[3, 14, 18, 9, 54, 12, 16, 34, 26, 17, 4, 22, 31, 45, 99]\r\nElement with value 19 removed\r\nNo element with value 7 found\r\n[3, 14, 18, 9, 54, 12, 16, 34, 26, 17, 4, 22, 31, 45, 99]",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "input2.txt",
+      "setup": "javac ArraysReview.java",
+      "run": "java ArraysReview",
+      "input": "input2.txt",
+      "output": "No element with value 19 found\r\nElement with value 7 removed\r\n[3, 14, 18, 9, 54, 12, 16, 45, 34, 26, 17, 4, 22, 31, 99]\r\nNo element with value 19 found\r\nElement with value 7 removed\r\n[3, 14, 18, 9, 54, 12, 16, 45, 34, 26, 17, 4, 22, 31, 99]",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
