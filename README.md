@@ -1,6 +1,6 @@
 # Arrays & ArrayLists Review
 
-## Due: Thur 9/1 at 11:59 PM
+## Due: Thur 8/31 at 11:59 PM
 
 - Create a program called `ArraysReview.java`
 - Prompt the user for a filename
